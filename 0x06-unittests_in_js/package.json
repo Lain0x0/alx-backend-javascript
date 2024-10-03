@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^5.1.0",
+    "package.json": "^2.0.1",
+    "sinon": "^17.0.1"
+  }
+}
